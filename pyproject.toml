@@ -4,6 +4,7 @@ dynamic = ["version"]
 requires-python = ">=3.10"
 readme.content-type = "text/x-rst"
 readme.file = "README.rst"
+license = "MIT"
 description = "Simple DNS resolver for asyncio"
 authors = [
     { name = "Saúl Ibarra Corretgé", email = "s@saghul.net" }
